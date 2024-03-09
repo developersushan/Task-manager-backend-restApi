@@ -1,0 +1,7 @@
+File Folder Creation
+Package Installation
+app.js configuration
+run the server 
+user model creation
+task model creation
+otp model creation
